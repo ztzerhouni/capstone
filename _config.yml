@@ -1,0 +1,15 @@
+title: Predicting Stocks with Natural Language Processing
+author: Zakaria Zerhouni
+email: ztzerhouni@gmail.com
+description: >
+I have used natural language processing to collect online articles, vectorize the content of those articles, 
+and create a criteria to buy or sell a given stock based on the content of those articles. 
+In order to select the model that will be used a series of different models will be attempted using a grid search with cross validation 
+and the one with the best performance at the initial stage will be selected.
+
+# social links
+twitter_username: zakzer # DO NOT include the @ character, or else the build will fail!
+github_username:  ztzerhouni # DO NOT include the @ character, or else the build will fail!
+
+show_excerpts: true # set to false to remove excerpts on the homepage
+theme: minima
